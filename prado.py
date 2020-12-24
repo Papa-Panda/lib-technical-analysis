@@ -1,3 +1,6 @@
+# this is implementing Prado's book
+# machine learning in finance
+
 import csv
 import pandas as pd
 import numpy as np
